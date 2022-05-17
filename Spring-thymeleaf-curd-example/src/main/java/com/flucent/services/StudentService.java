@@ -19,7 +19,7 @@ public class StudentService {
     private StudentRepository studentRepository;
 
     public Student findById(String id) {
-        return this.studentRepository.findById(id).orElseThrow();
+        return this.studentRepository.findById(id).orElseThrow(null );
     }
 
     public Student save(Student student) {

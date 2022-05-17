@@ -1,14 +1,18 @@
-package com.example.thymeleaf.dto.mapper;
+package com.flucent.dao.mapper;
 
-import com.example.thymeleaf.dto.CreateStudentDTO;
-import com.example.thymeleaf.dto.StudentResponseDTO;
-import com.example.thymeleaf.entity.Address;
-import com.example.thymeleaf.entity.Student;
-import lombok.AccessLevel;
-import lombok.NoArgsConstructor;
+
+
 
 import java.util.List;
 import java.util.stream.Collectors;
+
+import com.flucent.bean.Address;
+import com.flucent.bean.Student;
+import com.flucent.dao.CreateStudentDTO;
+import com.flucent.dao.StudentResponseDTO;
+
+import lombok.AccessLevel;
+import lombok.NoArgsConstructor;
 
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class StudentMapper {
