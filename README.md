@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GauravUP81
 - 👀 I’m interested in JAVA,SPRING BOOT,REACT JS,MICROSERVICES,DOCKERS, RABBIT MQ
-- 🌱 I’m currently learning SPRING BOOT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java script
+- 💞️ I’m looking to collaborate on js
 - 📫 How to reach me gaurav.singh_mca20@gla.ac.in
 
 <!---
